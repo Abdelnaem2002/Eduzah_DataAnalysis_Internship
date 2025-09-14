@@ -1,0 +1,31 @@
+Note: Where does Geography_Germany come from?
+
+In the original dataset, the Geography column contains text values such as France, Spain, Germany. Machine learning models cannot work directly with text, so we convert categorical features into numerical dummy variables using one-hot encoding.
+
+When we apply:
+
+pd.get_dummies(df, drop_first=True)
+
+
+get_dummies() creates a new column for each category (Spain, Germany, France).
+
+drop_first=True removes one category (here, France) to avoid redundancy (known as the dummy variable trap).
+
+✅ Example:
+
+Geography	→	Geography_Germany	Geography_Spain
+France		0	0
+Spain		0	1
+Germany		1	0
+France		0	0
+Germany		1	0
+
+👉 This means:
+
+Geography_Germany = 1 if the customer is from Germany, otherwise 0.
+
+Geography_Spain = 1 if the customer is from Spain, otherwise 0.
+
+If both are 0, the customer is from France (the baseline category).
+
+This way, models can use numerical values instead of text labels while still keeping the meaning of each category.
