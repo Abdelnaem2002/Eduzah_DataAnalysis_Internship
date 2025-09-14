@@ -1,90 +1,47 @@
+# 🚀 Eduzah Data Analysis Internship  
 
-📊 Eduzah Data Analysis Internship
+Welcome to my **Eduzah Data Analysis Internship Project** 🎓.  
+This repo showcases my work in **data cleaning, exploratory data analysis, statistical insights, and interactive Power BI dashboards**.  
 
-This repository contains the projects and analysis I completed during my Eduzah Data Analysis Internship.
-It includes data cleaning, exploratory data analysis (EDA), statistical insights, and Power BI dashboards.
+## 🛠️ Tools & Technologies  
 
-🚀 Projects Completed
-Task 7: Customer Personality Analysis
+- 🐍 **Python (Pandas, Matplotlib, Seaborn)** → Data cleaning & EDA  
+- 📊 **Power BI** → Interactive dashboards & storytelling  
+- 🌐 **Git & GitHub** → Version control & project showcase  
 
-Cleaned and preprocessed customer data.
+---
 
-Analyzed demographics (age, education, marital status, household size).
+## 📂 Repository Content  
 
-Explored spending patterns across product categories.
+📄 **[Eduzah_Data_Analysis_Internship.pdf](https://github.com/user-attachments/files/22319733/Eduzah.Data.Analysis.Internship.pdf)** → Full internship report  
+📸 **Dashboard screenshots** → Power BI visuals for each task  
 
-Suggested marketing and retention strategies based on insights.
+---
 
-Built interactive Power BI dashboard for visual storytelling.
+## 🌟 Key Takeaways  
 
-Task 8: Loan Approval Factors Analysis
+- Learned **end-to-end data analysis workflow**  
+- Gained experience in **EDA & statistical insights**  
+- Built **interactive dashboards** for business storytelling  
+- Improved **problem-solving & data visualization skills**  
 
-Explored demographic and financial variables affecting loan approvals.
+---
 
-Built a correlation matrix to identify key drivers.
+## 🙌 Acknowledgment  
 
-Suggested improvements for the loan approval process and customer guidance.
+Big thanks to **Eduzah** for providing this amazing opportunity to enhance my **data analysis and visualization skills**.  
 
-Designed a Power BI dashboard for visualization.
+---
 
-Task 9: Student Depression Risk Factor Analysis
+✨ *Feel free to explore this repository and connect with me for collaboration!*  
+<img width="1366" height="504" alt="powerbi_photo" src="https://github.com/user-attachments/assets/fa01de33-b160-47ff-b3b2-ffa07bec6ef7" />
+<img width="1322" height="553" alt="powerbi_das" src="https://github.com/user-attachments/assets/2d0534fc-9435-4f20-a047-151935dee253" />
+<img width="1007" height="504" alt="power_das" src="https://github.com/user-attachments/assets/9974f3c0-599e-4369-8d83-84db2bdd65e0" />
+<img width="984" height="507" alt="2025-09-12 17 45 20" src="https://github.com/user-attachments/assets/5d8ca00f-9d61-4638-937c-fba90dde3a9b" />
+<img width="759" height="432" alt="2025-09-12 18 23 00" src="https://github.com/user-attachments/assets/f678dba4-3529-4737-8860-f82bc80c6047" />
+<img width="757" height="435" alt="2025-09-12 18 58 43" src="https://github.com/user-attachments/assets/35d71b31-1efe-471b-bb85-d5a6576336ee" />
+<img width="900" height="498" alt="Loan Appro<img width="891" height="502" alt="2025-09-14 14 39 45" src="https://github.com/user-attachments/assets/058dddba-ec04-47f2-aa0b-2960c9fd7bf0" />
 
-Cleaned and analyzed academic, lifestyle, and demographic student data.
+<img width="900" height="498" alt="Loan Approval Factors Analysis" src="https://github.com/user-attachments/assets/853cc97c-9f53-45cb-a172-4f5c472fc3d8" />
 
-Identified high-risk factors (academic pressure, sleep patterns, financial stress).
 
-Built a correlation heatmap for numeric features.
-
-Suggested student mental health awareness strategies.
-
-Designed dashboard visuals (without showing depression column directly).
-
-📂 Files in This Repository
-
-Eduzah_Data_Analysis_Internship.pdf → Full internship report.
-
-Power BI dashboard screenshots:
-
-Customer Personality Dashboard
-
-Loan Approval Dashboard
-
-Student Risk Factor Dashboard
-
-📸 Dashboard Samples
-Customer Personality Dashboard
-
-Loan Approval Factors Dashboard
-
-Student Risk Factor Dashboard
-
-🛠️ Tools & Technologies Used
-
-Python (Pandas, Matplotlib, Seaborn) → Data cleaning & EDA
-
-Power BI → Interactive dashboards & storytelling
-
-Git & GitHub → Version control & project showcase
-
-📌 Key Learnings
-
-Hands-on experience with data preprocessing & cleaning.
-
-Applied EDA techniques to find patterns in customer, financial, and student data.
-
-Built interactive dashboards in Power BI to present insights effectively.
-
-Strengthened problem-solving and storytelling skills in data analytics.
-
-🙌 Acknowledgment
-
-Thanks to Eduzah for providing this internship opportunity and valuable mentorship in data analysis.
-[Eduzah Data Analysis Internship.pdf](https://github.com/user-attachments/files/22319733/Eduzah.Data.Analysis.Internship.pdf)
-<img width="1366" height="504" alt="powerbi_photo" src="https://github.com/user-attachments/assets/bc0dcfde-b5ff-445f-ba26-f85e59715d34" />
-<img width="1322" height="553" alt="powerbi_das" src="https://github.com/user-attachments/assets/f9231154-b9ff-4439-b175-ec3549e6504c" />
-<img width="1007" height="504" alt="power_das" src="https://github.com/user-attachments/assets/03bcef91-4f71-4920-9aed-d6d906478e68" />
-<img width="984" height="507" alt="2025-09-12 17 45 20" src="https://git<img width="759" height="432" alt="2025-09-12 18 23 00" src="https://github.com/user-attachments/assets/6d53e550-864b-4c0f-abfd-5093a102c36a" />
-hub.com/user-attachments/assets/c1d537bc-e339-4319-ac4e-f1b848543e3f" />
-<img width="757" height="435" alt="2025-09-12 18 58 43" src="https://github.com/user-attachments/assets/d71da7e9-dd7c-43b5-b61c-f58a4ed9121a" />
-<img width="900" height="498" alt="Loan Approval Factors Anal<img width="891" height="502" alt="2025-09-14 14 39 45" src="https://github.com/user-attachments/assets/0fbed220-55ba-40be-9c37-35aac9061b50" />
-ysis" src="https://github.com/user-attachments/assets/c6245c49-0829-4a45-9a73-5f0facde0997" />
