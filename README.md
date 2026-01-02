@@ -1,4 +1,5 @@
 # 🚀 Eduzah Data Analysis Internship  
+[Abdelnaem Alaref.pdf](https://github.com/user-attachments/files/24410726/Abdelnaem.Alaref.pdf)
 
 Welcome to my **Eduzah Data Analysis Internship Project** 🎓.  
 This repo showcases my work in **data cleaning, exploratory data analysis, statistical insights, and interactive Power BI dashboards**.  
